@@ -24,3 +24,4 @@
 修改文件（蓝色）
 在项目右键-->Git-->Commit Directory，查看有变动的文件并输入Commit Message，点击Commit and Push...
 提交后会进行语法检查，若存在错误或警告会给出确认提示，点击Commit，弹出Push框，点击Push，上传GitHub成功
+
